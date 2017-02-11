@@ -1,0 +1,8 @@
+##** Jupyter Notebooks **##
+*.DS_Store
+*.ipynb_checkpoints
+
+
+##** R Files **##
+.Rproj.user
+*.Rhistory
